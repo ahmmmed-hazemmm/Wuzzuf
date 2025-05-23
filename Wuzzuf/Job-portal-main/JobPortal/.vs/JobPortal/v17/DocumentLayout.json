@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobPortal\\Views\\Shared\\AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\EmployerLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobPortal\\Views\\Shared\\EmployerLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobPortal\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\MainLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobPortal\\Views\\Shared\\MainLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.cshtml",
+              "DocumentMoniker": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\MainLayout.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Shared\\MainLayout.cshtml",
+              "ToolTip": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\MainLayout.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Shared\\MainLayout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:10:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployerLayout.cshtml",
+              "DocumentMoniker": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\EmployerLayout.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Shared\\EmployerLayout.cshtml",
+              "ToolTip": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\EmployerLayout.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Shared\\EmployerLayout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:10:15.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:08:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\Mohem\\Projects\\Wuzzuf\\New folder\\Job-portal-main\\JobPortal\\JobPortal\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:07:53.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
